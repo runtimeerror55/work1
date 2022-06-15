@@ -1,0 +1,15 @@
+lexical structure 
+
+The lexical structure of a programming language is the set of elementary
+rules that specifies you how to write programs. It states what variables look like,how comments are written,keywords etc.
+
+Text of javascript program 
+javascript is a case sensitive language which means "abc" and "ABC" are
+treated as different.
+javascript ignores spaces between tokens.
+javascript also ignores line breaks as well for the most part but there are 
+some exception you will see later in this article.
+because you can use spaces and new lines freely in your program you can format 
+and indent your program in a neat way and consistent way which makes the code easy to understand.
+
+
